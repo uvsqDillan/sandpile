@@ -6,7 +6,7 @@ projet
 # Capucine FOURCADE
 # Sophie FABRET
 # Maxime MANGNAN
-# Dillan REGGANE
+# Dillan REGGANEEEEEEEEE
 # https://github.com/uvsq22105399/sandpile.git
 #####################
 
